@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Django
+db.sqlite3
+/static/
+media/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Environment
+.env
+venv/
+*.env
+
+# GeoJSON (optional - keep if large/private)
+data/*.geojson
