@@ -64,7 +64,7 @@ the map.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gis_project.git
+git clone https://github.com/Dhanvantari-26/gis_project.git
 cd gis_project
 
 2. Set Up Virtual Environment
